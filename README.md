@@ -1,8 +1,7 @@
 # NAT-SLN Metastasis Prediction
 
-Code reconstruction repository for predicting sentinel lymph node (SLN) metastasis after neoadjuvant therapy (NAT) using ultrasound imaging and clinical predictors.
+Code repository for predicting sentinel lymph node (SLN) metastasis after neoadjuvant therapy (NAT) using ultrasound imaging and clinical predictors.
 
-> **Status:** Reconstruction in progress. This repository is a scaffold; it does not yet contain verified original training code, trained weights, or validated reproduction results.
 
 ## Planned components
 
